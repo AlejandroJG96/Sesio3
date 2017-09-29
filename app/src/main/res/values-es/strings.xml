@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="check">Comprueba</string>
+    <string name="question">Pregunta</string>
+    <string name="question_content">Cual es la capital de Bhutan?</string>
+    <string name="correct">Muy bieen!!</string>
+    <string name="incorrect">Inocrrecto!!</string>
+    <string name="next">Siguiente</string>
+    <string name="Finish">Acabar</string>
+    <string name="prev">Anterior</string>
+</resources>
